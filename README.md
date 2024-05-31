@@ -35,3 +35,14 @@ Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto
 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2
 
 Lo que en una página utilizariamos usando la etiqueta <p>
+
+También podemos aplicar estilos basicos de alineación :
+
+Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto
+
+<p align = "right">
+Este párrafo esta alineado a la derecha utilizando la propiedad de lineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de lineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de lineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de lineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de lineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación
+
+<p align = "center">
+Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación
+  
