@@ -21,3 +21,17 @@ Si se desea marcar una separación más visual de contenidos podemos utilizarlos
 EJEMPLO:
 --- 
 *Esto es similar a un tag de < HR > en HTML.
+
+### 3. Párrafos (PARAGRPAHS)
+Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
+
+EJEMPLO
+Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 este texto pertenece al parrafo 1Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 este texto pertenece al parrafo 1Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 
+Este texto pertenece al párrafo 1Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 este texto pertenece al parrafo 1
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 este texto pertenece al parrafo 1
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 este texto pertenece al parrafo 1
+
+
+Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 este texto pertenece al parrafo 2
+
+Lo que en una página utilizariamos usando la etiqueta <p>
