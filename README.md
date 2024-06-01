@@ -45,6 +45,18 @@ Este párrafo esta alineado a la derecha utilizando la propiedad de lineación E
 
 <p align = "center">
 Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación Este párrafo esta centrado utilizando la propiedad de lineación Este párrafo esta centrado utilizando la propiedad de alineación
-  
+
 <p align = "justify">
 Este párrafo estará justificado utilizando la propiedad de lineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de lineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de lineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de lineación Este párrafo estará justificado utilizando la propiedad de alineación
+
+### Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+Si el texto que deseamos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
+
+##### Texto en negrita (BOLD)
+Para poner el texto en negritas este debera estar encerrado entre *
+
+EJEMPLO
+
+TEXTO TEXTO TEXTO TEXTO TEXTO *Texto importatne* TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
+
+
