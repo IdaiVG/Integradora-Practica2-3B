@@ -52,7 +52,7 @@ Este párrafo estará justificado utilizando la propiedad de lineación Este pá
 ### Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC)
 Si el texto que deseamos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
 
-##### Texto en negrita (BOLD)
+##### 4. Texto en negrita (BOLD)
 Para poner el texto en negritas este debera estar encerrado entre *
 
 EJEMPLO
