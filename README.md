@@ -126,5 +126,6 @@ Pero si deseamos poner solo las ligas directas o un correo electrónico podemos 
 
 **Ejemplo**
 Documentación creada por: ***Guadalupe Idai Vargas Galindo*** 
+
 <230574@utxicotepec.edu.mx>
 <http://utxicotepec.edu.mx>
