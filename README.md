@@ -59,4 +59,11 @@ EJEMPLO
 
 TEXTO TEXTO TEXTO TEXTO TEXTO *Texto importatne* TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 
+##### Texto en cursiva (ITALIC)
+Para poder poner el texto en cursiva, este deberá ser encerrado con la 
+Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto Texto
+
+##### Texto en cursiva y negrita(BOLD/ITALIC)
+Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con la 
+Texto TextoTexto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto
 
