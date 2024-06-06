@@ -110,9 +110,9 @@ Para crear tu primer repositorio en GitHub deberás:
 2. Dar click en el boton: **Nuevo repositorio*
 3. Asignarle un Nombre a tu repositorio, por ejemplo: *practica03-3b*
 4. Asignarle un nivel de privacidad entre
-   -***Públuico:*** Si quieres que esté disponible para todos los usuarios.
+   -**Públuico:** Si quieres que esté disponible para todos los usuarios.
    -**Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
-5. Definir si incluye un archivo de descripción llamado : *READNE.md*
-6. Definir si habrá exclusiones de archivo a través del archivo *.gitgnore*
-7. Guardar los cambios
+6. Definir si incluye un archivo de descripción llamado : *READNE.md*
+7. Definir si habrá exclusiones de archivo a través del archivo *.gitgnore*
+8. Guardar los cambios
 5.  
