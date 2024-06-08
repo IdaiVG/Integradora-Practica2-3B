@@ -144,3 +144,8 @@ Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El 
 
 
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.genbeta.com%2Fa-fondo%2Fstable-diffusion-guia-a-fondo-que-como-usarlo-ejemplos-como-generar-imagenes-frase&psig=AOvVaw1k2LO8mP1O1sP-4HBTQZCX&ust=1717961329625000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIid--fezIYDFQAAAAAdAAAAABAE)
+
+
