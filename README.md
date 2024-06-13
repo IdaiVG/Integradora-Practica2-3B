@@ -142,7 +142,6 @@ Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El 
 
 
 
-
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
 
 
