@@ -145,5 +145,38 @@ Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El 
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
 
 
+#### 9. Tabla (Tables)
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar filas.
 
+**Ejemplo:**
 
+| Encabezado 1 | Encabezado 2| Encabezado 3| Encabezado 4|
+|--------------|-------------|-------------|-------------|
+|Fila 1 celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 celda 1|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+
+En el caso de necesitar la fusión de celdas en columnas usaremos la propiedad "colspan" del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad "rowspan".
+
+**Ejemplo**
+
+|Encabezado 1|Encabezado 2|Encabezado 3| Encabezado 4|
+|------------|------------|------------|-------------|
+|Fila 1 Celda 1|Fila 1 Celda 2| Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1 <td colspan=2> Fila 2 Celda 2| Fila 2 Celda 3|
+|Fila 3 Celda 1|Fila 3 Celda 2| Fila 3 Celda 3|Fila 3 Celda 4|
+|             |Fila 4 Celda 2|Fila 4 Celda 3| Fila 4 Celda 4|
+|             |Fila 5 Celda 2|Fila 5 Celda 3| Fila 5 Celda 4|
+|Fila 6 Celda 1|Fila 6 Celda 2| Fila 6 Celda 3|Fila 6 Celda 4|
+
+Dado que en el ejemplo pasado usando markdown no se puede realizar la fusión de filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan"
+
+**Ejemplo**
+
+<table>
+   <tr>
+      <th>Encabezado 1</th>
+      <th>Encabezado 2</th>
+      <th>Encabezado 3</th>
+   </tr>
+</table>
